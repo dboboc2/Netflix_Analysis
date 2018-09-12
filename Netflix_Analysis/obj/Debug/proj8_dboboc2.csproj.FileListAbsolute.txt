@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\bin\Debug\proj8_dboboc2.exe.config
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\bin\Debug\proj8_dboboc2.exe
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\bin\Debug\proj8_dboboc2.pdb
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.Form1.resources
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.Properties.Resources.resources
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.csproj.GenerateResource.cache
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.csproj.CopyComplete
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.exe
+C:\Users\Danny\Desktop\cs341\Proj8\proj8_dboboc2\proj8_dboboc2\obj\Debug\proj8_dboboc2.pdb
